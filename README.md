@@ -1,5 +1,7 @@
-### Hi there!this is Ansh 👋
-
+### Hi there!
+### This is Ansh 👋
+### About me:
+I am a final year undergraduate pursuing Computer Engineering from JC Bost UST,YMCA,Faridabad.
 <!--
 **AnshG94162/AnshG94162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
